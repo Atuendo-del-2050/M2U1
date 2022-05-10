@@ -1,0 +1,74 @@
+p {
+    color: red;
+    font-family: italic;
+    border: 20px;
+
+
+}
+
+h2 {
+    color: rgb(39, 39, 2);
+    font-family: Gotic;
+    font-weight: 30px;
+    background-color: grey;font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+h3 {
+    color: blueviolet;
+    font-family: Times;
+}
+
+.caja {
+    width: 400px;
+    height: 200px;
+    /*background-color: grey; */
+    margin: 100px;
+    background: rgb(255, 0, 132);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(255, 0, 132, 1) 0%, rgba(255, 0, 132, 1) 26%, rgba(255, 0, 132, 1) 35%, rgba(255, 0, 132, 1) 51%, rgba(255, 0, 132, 1) 100%);
+    /* FF3.6-15 */
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 0px 197px 197px 4px;
+    -webkit-border-radius: 0px 197px 197px 4px;
+    -moz-border-radius: 0px 197px 197px 4px;
+    box-shadow: -10px -10px 30px black;
+    column-count: 2;
+}
+
+ul {
+    color: black;
+    font-style: italic;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+ol {
+    color: black;
+    font-style: italic;
+}
+
+#destacados {
+    color: rgb(19, 5, 5);
+    font-style: Times;
+    text-align: center;
+
+
+}
+
+#grey {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(97, 102, 102);
+    margin-top: 20px;
+    padding-top: 50px;
+    margin-left: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+a:hover {
+    color: red;
+    font-size: medium;
+
+}
